@@ -1,0 +1,21 @@
+# Python dependencies for Austin Averill's Population By Region Viewer
+
+# Core GUI and plotting
+matplotlib>=3.5.0
+numpy>=1.20.0
+
+# Data processing
+pandas>=1.3.0
+
+# Optional: For enhanced GeoJSON processing
+# geopandas>=0.11.0
+# shapely>=1.8.0
+
+# Standard library modules used:
+# tkinter (included with Python)
+# json (included with Python)
+# os (included with Python)
+# sys (included with Python)
+# typing (included with Python)
+# tempfile (included with Python)
+# webbrowser (included with Python)
