@@ -57,11 +57,15 @@ ESS6510-HomeWork9/
 │   ├── southwest.html              # Example Southwest region chloropleth export
 │   └── southeast.html              # Example Southeast region chloropleth export
 │
+├── testing_components/              # 🧪 Development testing and debugging scripts
+│   ├── test_*.py                   # Unit and integration test scripts
+│   └── debug_*.py                  # Debugging utilities and exploratory scripts
+│
 ├── geometry_query_params/           # Census API query configurations
 │   ├── states_query.json           # State boundaries query (MapServer 54)
 │   └── counties_query.json         # County boundaries query (MapServer 55)
 │
-└── src/                            # Source code
+└── src/                            # Source code (3,237 lines)
     ├── data/
     │   ├── __init__.py
     │   └── api_data_manager.py     # Census API integration with coordinate conversion
