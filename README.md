@@ -7,11 +7,11 @@ A Python-based GUI application for visualizing US population data by region and 
 ### Option 1: Use the Executable (Recommended)
 **No Python installation required!**
 
-1. Download `dist/PopulationViewer.exe` (39.73 MB)
+1. Download `program/PopulationViewer.exe` (39.73 MB)
 2. Double-click to run
 3. Internet connection required for Census API data
 
-See `dist/README.txt` for detailed user instructions.
+See `program/README.txt` for detailed user instructions.
 
 ### Option 2: Run from Source
 
